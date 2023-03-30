@@ -45,6 +45,8 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/nam_saka289) 
 
 
+
+
 # ⌨️ Platform & Tools
 
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows)](https://www.microsoft.com/windows/get-windows-10)
