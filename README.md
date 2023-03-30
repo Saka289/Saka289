@@ -71,7 +71,7 @@
 |                                           <img  width="450em"   src="https://streak-stats.demolab.com?user=Saka289&theme=radical " alt="Saka289 Streak" />                                           |  <img width="450em" align="center" alt="Saka289's Github stats"  src="https://github-readme-stats.vercel.app/api?username=Saka289&show_icons=true&count_private=true&theme=radical" />   |	  
 <br>
 
-# ⚡ Socials:
+# ⚡ Contribution:
 
 <h4 align="center">My contribution graph</h4>
 
