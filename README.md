@@ -13,13 +13,13 @@
 
 ☞ 〔 ⚪️ 〕🎀 Pink is Sweet 🎀 | 🌹 Rose is red
 
-☞ 〔 🐵 〕 <a href="https://www.webilicious.in/">![Weblicious](https://img.shields.io/badge/Student-FTP%20University-orange)</a>
+☞ 〔 🐵 〕 <a href="https://daihoc.fpt.edu.vn/">![Weblicious](https://img.shields.io/badge/Student-FTP%20University-orange)</a>
 
 ☞ 〔 🐼 〕Back End DEV
 
 ☞ 〔 🤾 〕21
 
-☞ 〔 <img height="18" width="18" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"/> 〕Vue Simp
+☞ 〔 <img height="18" width="18" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/> 〕Java
 
 ☞ 〔 👀 〕![](https://komarev.com/ghpvc/?username=Saka289&color=dc143c)
 
