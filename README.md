@@ -11,7 +11,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-☞ 〔 ⚪️ 〕🎀 Pink is Sweet 🎀 | 🌹 Rose is red
+☞ 〔 ⚪️ 〕🌈 Sadness flies away on the wings of time !!! 🌦️
 
 ☞ 〔 🐵 〕 <a href="https://daihoc.fpt.edu.vn/">![Weblicious](https://img.shields.io/badge/Student-FTP%20University-orange)</a>
 
