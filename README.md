@@ -9,7 +9,7 @@
 
 <br><br>
 
-<img width="53%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="51%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 ☞ 〔 ⚪️ 〕🌈 Sadness flies away on the wings of time !!! 🌦️
 
