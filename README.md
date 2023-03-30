@@ -1,3 +1,30 @@
+  <a href="https://github.com/vikashPR"><img src="https://readme-typing-svg.demolab.com?font=&color=%23F7008F&lines=Student+%2F+Developer+%2F+Athlete+;%F0%9F%9A%80+Front-End+Developer;%F0%9F%96%A5+Active+OpenSource+Contributor"></a>
+
+</p>
+ <p align="center">
+  <a href="#"> <img src="assets/2.gif"><a/>
+  <a href="#"><img src="assets/8.gif"><a/>
+  <a href="#"><img src="assets/0.gif"><a/>
+  <a href="#"><img src="assets/6.gif"><a/>
+</p>
+	  
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+☞ 〔 ⚪️ 〕🎀 Pink is Sweet 🎀 | 🌹 Rose is red
+
+☞ 〔 🐵 〕 <a href="https://www.webilicious.in/">![Weblicious](https://img.shields.io/badge/Team-%40Webilicious-brightgreen)</a> <a href="https://www.srmist.edu.in">![SRMIST](https://img.shields.io/badge/Student-%40SRMIST-blue)</a>
+
+☞ 〔 🐼 〕Frot End DEV
+
+☞ 〔 🤾 〕19
+
+☞ 〔 <img height="18" width="18" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"/> 〕Vue Simp
+
+☞ 〔 👀 〕![](https://komarev.com/ghpvc/?username=vikashpr&color=dc143c)
+
+<br>
+
+
 # 💫 About Me:
 - 🔭 I’m currently working on ...<br>- 🌱 I’m currently learning ...<br>- 👯 I’m looking to collaborate on ...<br>- 🤔 I’m looking for help with ...<br>- 💬 Ask me about ...<br>- 📫 How to reach me: ...<br>- 😄 Pronouns: ...<br>- ⚡ Fun fact: ...
 
