@@ -47,4 +47,11 @@
 | <img width="450em" src="https://github-profile-trophy.vercel.app/?username=Saka289&theme=radical&row=2&column=4&margin-w=10&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy"> | <img  width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Saka289&show_icons=true&locale=en&layout=compact&theme=radical" alt="Saka289's Most used lang" /> |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                           <img  width="450em"   src="https://streak-stats.demolab.com?user=Saka289&theme=radical " alt="Saka289 Streak" />                                           |  <img width="450em" align="center" alt="Saka289's Github stats"  src="https://github-readme-stats.vercel.app/api?username=Saka289&show_icons=true&count_private=true&theme=radical" />   |
+	  
+
+### Github contribution:
+
+<h4 align="center">My contribution graph</h4>
+
+<p align="center"> <img width="900em" src="https://github-readme-activity-graph.cyclic.app/graph?username=Saka289&bg_color=01010f&color=f5f5fe&line=ed4a7c&point=45994a&area=true&hide_border=true" alt="Saka289's Github Graph" /> </p> 
 
