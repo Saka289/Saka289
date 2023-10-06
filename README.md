@@ -26,22 +26,13 @@
 <br>
 
 # 💫 About Me:
-- 🔭 I’m currently working on ...<br>
-- 🌱 I’m currently learning ...<br>
-- 👯 I’m looking to collaborate on ...<br>
-- 🤔 I’m looking for help with ...<br>
-- 💬 Ask me about ...<br>
-- 📫 How to reach me: ...<br>
-- 😄 Pronouns: ...<br>
-- ⚡ Fun fact: ...
-
 ```js
 Introduce = [   
   (●'◡'●),  
-  "Hi! My name's Dat🌝",   
-  "Now i'm studying in ICTU",  
-  "My favourites are chill with music, watch film, play game with my friends and code",  
-  "I'm learning about Back-End."  
+  🔭 "Hi! My name's Saka🌝",   
+  🌱 "Now i'm studying in FPT University",  
+  🤔 "My favourites are chill with music, watch film, play game with my friends and code",  
+  ⚡ "I'm learning about Back-End."  
 ]
 ```
 
