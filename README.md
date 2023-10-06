@@ -82,6 +82,6 @@ Introduce = [
 
 ###
 
-<img src="https://raw.githubusercontent.com/Saka289/Saka289/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Saka289/Saka289/output/github-contribution-grid-snake.svg.svg" alt="Snake animation" />
 
 ###
