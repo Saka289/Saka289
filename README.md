@@ -35,6 +35,16 @@
 - 😄 Pronouns: ...<br>
 - ⚡ Fun fact: ...
 
+```js
+Introduce = [   
+  (●'◡'●),  
+  "Hi! My name's Dat🌝",   
+  "Now i'm studying in ICTU",  
+  "My favourites are chill with music, watch film, play game with my friends and code",  
+  "I'm learning about Back-End."  
+]
+```
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/saka289/) 
