@@ -78,6 +78,6 @@ Introduce = [
 
 <h4 align="center">My contribution graph</h4>
 
-<img src="https://raw.githubusercontent.com/Saka289/Saka289/output/snake.svg" alt="Snake animation" />
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Saka289/Saka289/output/github-contribution-grid-snake.svg" />
 
 ###
