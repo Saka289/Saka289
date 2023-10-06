@@ -76,12 +76,8 @@ Introduce = [
 
 ## ⚡ Contribution:
 
-<h4 align="center">My contribution graph</h4>
+<h4 align="center">🐍 My Contributions 🐍</h4>
 
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Saka289/Saka289/output/github-contribution-grid-snake.svg" />
-
-###
-
-<img src="https://raw.githubusercontent.com/Saka289/Saka289/output/github-contribution-grid-snake.svg.svg" alt="Snake animation" />
 
 ###
