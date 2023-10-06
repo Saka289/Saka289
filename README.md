@@ -78,5 +78,6 @@ Introduce = [
 
 <h4 align="center">My contribution graph</h4>
 
-<p align="center"> <img width="900em" src="https://github-readme-activity-graph.cyclic.app/graph?username=Saka289&bg_color=01010f&color=f5f5fe&line=ed4a7c&point=45994a&area=true&hide_border=true" alt="Saka289's Github Graph" /> </p> 
+<img src="https://raw.githubusercontent.com/Saka289/Saka289/output/snake.svg" alt="Snake animation" />
 
+###
