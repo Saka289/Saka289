@@ -81,3 +81,7 @@ Introduce = [
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Saka289/Saka289/output/github-contribution-grid-snake.svg" />
 
 ###
+
+<img src="https://raw.githubusercontent.com/Saka289/Saka289/output/snake.svg" alt="Snake animation" />
+
+###
