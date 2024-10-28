@@ -17,9 +17,9 @@
 
 ☞ 〔 🐼 〕Back End DEV
 
-☞ 〔 🤾 〕21
+☞ 〔 🤾 〕22
 
-☞ 〔 <img height="18" width="18" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/> 〕Java
+☞ 〔 <img height="18" width="18" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png"/> 〕C#
 
 ☞ 〔 👀 〕![](https://komarev.com/ghpvc/?username=Saka289&color=dc143c)
 
