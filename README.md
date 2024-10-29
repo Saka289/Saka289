@@ -19,7 +19,7 @@
 
 ☞ 〔 🤾 〕22
 
-☞ 〔 &nbsp; <img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" height="18" width="18" /> &nbsp; 〕C#
+☞ 〔 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="18" width="18" /> 〕C#
 
 ☞ 〔 👀 〕![](https://komarev.com/ghpvc/?username=Saka289&color=dc143c)
 
