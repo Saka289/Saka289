@@ -23,6 +23,35 @@
 
 ☞ 〔 👀 〕![](https://komarev.com/ghpvc/?username=Saka289&color=dc143c)
 </div>
+
+
+
+<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
+  <!-- Hình GIF bên phải -->
+  <div style="flex: 1; text-align: right;">
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="this slowpoke moves" width="300" />
+  </div>
+
+  <!-- Phần nội dung text bên trái -->
+  <div style="flex: 1; padding: 10px;">
+    <p>☞ 〔 ⚪️ 〕🌈 <strong>Sadness flies away on the wings of time !!!</strong> 🌦️</p>
+    <p>☞ 〔 🐵 〕 
+      <a href="https://daihoc.fpt.edu.vn/">
+        <img src="https://img.shields.io/badge/Student-FTP%20University-orange" alt="Weblicious">
+      </a>
+    </p>
+    <p>☞ 〔 🐼 〕Back End DEV</p>
+    <p>☞ 〔 🤾 〕22</p>
+    <p>☞ 〔 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="18" width="18" alt="C# Logo" /> 〕C#
+    </p>
+    <p>☞ 〔 👀 〕
+      <img src="https://komarev.com/ghpvc/?username=Saka289&color=dc143c" alt="Profile Views" />
+    </p>
+  </div>
+</div>
+
+
 <br>
 
 ## 💫 About Me:
