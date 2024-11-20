@@ -4,15 +4,13 @@
   <a href="https://github.com/Saka289">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=%23F7008F&lines=Student+%2F+Developer+%2F+Athlete+;%F0%9F%9A%80+Back-End+Developer;%F0%9F%96%A5+Active+OpenSource+Contributor">
   </a>
-</p>
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="this slowpoke moves" width="100"/> <br>
-</div>  
+</p> 
 
 <br><br>
 
-<img width="52%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<div align="right">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="this slowpoke moves" width="100"/> <br>
+</div>
 
 ☞ 〔 ⚪️ 〕🌈 Sadness flies away on the wings of time !!! 🌦️
 
