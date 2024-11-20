@@ -75,7 +75,7 @@ Introduce = [
 
 
 ## 📊 GitHub Stats:
-| <img width="450em" src="https://github-profile-trophy.vercel.app/?username=Saka289&theme=tokyonight&row=2&column=4&margin-w=10&margin-h=15&no-bg=true" alt="GitHub Trophies"> | <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saka289&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Most Used Languages"> |
+| <img width="450em" src="https://github-profile-trophy.vercel.app/?username=Saka289&theme=tokyonight&row=2&column=4&margin-w=10&margin-h=15&no-bg=false" alt="GitHub Trophies"> | <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saka289&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Most Used Languages"> |
 | :------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------: |
 |            <img width="450em" src="https://streak-stats.demolab.com?user=Saka289&theme=tokyonight" alt="GitHub Streak">             | <img width="450em" src="https://github-readme-stats.vercel.app/api?username=Saka289&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats"> |
 
