@@ -2,7 +2,7 @@
 
 <p align="center"> 
   <a href="https://github.com/Saka289">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=%234D9FFF&lines=Student+%2F+Developer+%2F+Athlete+;%F0%9F%9A%80+Back-End+Developer+%2F+Devops;%F0%9F%96%A5+Active+OpenSource+Contributor">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=%23C084FC&lines=Student+%2F+Developer+%2F+Athlete+;%F0%9F%9A%80+Back-End+Developer+%2F+Devops;%F0%9F%96%A5+Active+OpenSource+Contributor">
   </a>
 </p> 
 
