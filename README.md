@@ -21,7 +21,7 @@
 
 ☞ 〔 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="18" width="18" /> 〕C#
 
-☞ 〔 👀 〕![](https://komarev.com/ghpvc/?username=Saka289&color=dc143c)
+☞ 〔 👀 〕![](https://komarev.com/ghpvc/?username=Saka289&color=%23C084FC)
 
 </div>
 
