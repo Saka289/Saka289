@@ -9,7 +9,7 @@
 <br><br>
 
 <div>
-  <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="this slowpoke moves" width="300"/> <br>
+  <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="this slowpoke moves" width="250"/> <br>
 
 ☞ 〔 ⚪️ 〕🌈 Sadness flies away on the wings of time !!! 🌦️
 
@@ -22,38 +22,8 @@
 ☞ 〔 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="18" width="18" /> 〕C#
 
 ☞ 〔 👀 〕![](https://komarev.com/ghpvc/?username=Saka289&color=dc143c)
-</div>
-
-
-
-<div style="display: flex; flex-wrap: wrap; align-items: center;">
-
-  <!-- Hình GIF bên phải -->
-  <div style="flex: 1; text-align: right;">
-    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="this slowpoke moves" width="300" />
-  </div>
-
-  <!-- Phần nội dung text bên trái -->
-  <div style="flex: 1; padding: 10px;">
-    ☞ 〔 ⚪️ 〕🌈 **Sadness flies away on the wings of time !!!** 🌦️ <br>
-
-    ☞ 〔 🐵 〕 
-    <a href="https://daihoc.fpt.edu.vn/">
-      ![Weblicious](https://img.shields.io/badge/Student-FTP%20University-orange)
-    </a> <br>
-
-    ☞ 〔 🐼 〕**Back End DEV** <br>
-    ☞ 〔 🤾 〕**22** <br>
-    ☞ 〔 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="18" width="18" /> 
-    〕**C#** <br>
-    ☞ 〔 👀 〕
-    ![](https://komarev.com/ghpvc/?username=Saka289&color=dc143c)
-  </div>
 
 </div>
-
-
 
 <br>
 
