@@ -69,7 +69,7 @@ Introduce = [
 
 
 ## 📊 GitHub Stats:
-| <img width="450em" src="https://github-profile-trophy.vercel.app/?username=Saka289&theme=tokyonight&row=2&column=4&margin-w=10&margin-h=15" alt="Saka289's Trophies"> | <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saka289&show_icons=true&locale=en&layout=compact&theme=aura" alt="Saka289's Most used lang"> |
+| <img width="450em" src="https://github-profile-trophy.vercel.app/?username=Saka289&theme=tokyonight&row=2&column=4&margin-w=10&margin-h=15&no-bg=false" alt="Saka289's Trophies"> | <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saka289&show_icons=true&locale=en&layout=compact&theme=aura" alt="Saka289's Most used lang"> |
 | :------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------: |
 |            <img width="450em" src="https://streak-stats.demolab.com?user=Saka289&theme=aura" alt="Saka289's Streak">             | <img width="450em" src="https://github-readme-stats.vercel.app/api?username=Saka289&show_icons=true&count_private=true&theme=aura" alt="Saka289's Stats"> |
 
