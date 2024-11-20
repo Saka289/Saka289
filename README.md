@@ -9,7 +9,7 @@
 <br><br>
 
 <div align="right">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="this slowpoke moves" width="100"/> <br>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="this slowpoke moves" width="50%"/> <br>
 </div>
 
 ☞ 〔 ⚪️ 〕🌈 Sadness flies away on the wings of time !!! 🌦️
