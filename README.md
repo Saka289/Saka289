@@ -38,6 +38,7 @@ Introduce = [
 ]
 ```
 
+<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/saka289/) 
@@ -46,11 +47,13 @@ Introduce = [
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19101160/l%c3%aa-ho%c3%a0i-nam) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/nam_saka289)
 
+<br>
 
 ## ⌨️ Platform & Tools
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=for-the-badge&logo=windows)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code)](https://code.visualstudio.com/)
 
+<br>
 
 ## 🚀 Skills
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
@@ -65,6 +68,7 @@ Introduce = [
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
+<br>
 
 ## 💻 Tech Stack:  
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
@@ -83,12 +87,14 @@ Introduce = [
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)  
 
+<br>
 
 ## 📊 GitHub Stats:
 | <img width="450em" src="https://github-profile-trophy.vercel.app/?username=Saka289&theme=tokyonight&row=2&column=4&margin-w=10&margin-h=15&no-bg=true" alt="Saka289's Trophies"> | <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saka289&show_icons=true&locale=en&layout=compact&theme=aura" alt="Saka289's Most used lang"> |
 | :------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------: |
 |            <img width="450em" src="https://streak-stats.demolab.com?user=Saka289&theme=aura" alt="Saka289's Streak">             | <img width="450em" src="https://github-readme-stats.vercel.app/api?username=Saka289&show_icons=true&count_private=true&theme=aura" alt="Saka289's Stats"> |
 
+<br>
 
 ## ⚡ Contribution:
 
