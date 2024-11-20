@@ -8,9 +8,8 @@
 
 <br><br>
 
-<div width="52%" align="right">
+<div>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="this slowpoke moves" width="100"/> <br>
-</div>
 
 ☞ 〔 ⚪️ 〕🌈 Sadness flies away on the wings of time !!! 🌦️
 
@@ -23,7 +22,7 @@
 ☞ 〔 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="18" width="18" /> 〕C#
 
 ☞ 〔 👀 〕![](https://komarev.com/ghpvc/?username=Saka289&color=dc143c)
-
+</div>
 <br>
 
 ## 💫 About Me:
