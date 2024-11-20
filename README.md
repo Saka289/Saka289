@@ -6,6 +6,10 @@
   </a>
 </p> 
 
+
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=7yy6f3cw5tcqksxnfoxjl8azd&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?
+uid=7yy6f3cw5tcqksxnfoxjl8azd&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=c084fc&bar_color_cover=false)]]
+
 <br><br>
 
 <div>
