@@ -33,7 +33,8 @@
 ```js
 Introduce = [   
   (●'◡'●),  
-  🔭 "Hi! My name's Saka🌝",   
+  🔭 "Hi! My name's Saka🌝",
+  🎂 "I'm 22 years old",   
   🌱 "Now i'm studying in FPT University",  
   🤔 "My favourites are chill with music, watch film, play game with my friends and code",  
   ⚡ "I'm learning about Back-End."  
