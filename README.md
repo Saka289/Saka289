@@ -17,7 +17,7 @@
     <li>🧐 Learning about <strong>C#</strong>, <strong>Java</strong>, and a bit of <strong>Javascript</strong>.</li>
     <li>👨‍💻 Most of my projects are available on <a href="https://github.com/Saka289">Github</a>.</li>
     <li>📝 Ask me about anything related to C#/Java/Python/Javascript.</li>
-    <li>🎉 Fun Fact: 我也会讲中文。</li>
+    <li>🎉 Fun Fact: いいこ。</li>
   </ul>
 </div>
 
