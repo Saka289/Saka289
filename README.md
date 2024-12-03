@@ -20,6 +20,7 @@
     <li>🎉 Fun Fact: いいこ。</li>
     <li>👀 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Saka289&color=C084FC" alt="saka289 " /> </p></li>
     <li>👀 <img src="https://komarev.com/ghpvc/?username=Saka289&color=C084FC" alt="saka289 " /></li>
+    <li><p align="left"> <img src="https://komarev.com/ghpvc/?username=Saka289&color=C084FC" alt="saka289 " />👀</p></li>
   </ul>
 </div>
 
