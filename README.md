@@ -10,6 +10,7 @@
 
 ## ⚡️ A Few Quick Facts
 <div>
+  <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="this slowpoke moves" width="250"/> <br>
   <ul>
     <li>🌈 Sadness flies away on the wings of time !!! 🌦️.</li>
     <li>🔭 I’m currently working on something cool 😉.</li>
