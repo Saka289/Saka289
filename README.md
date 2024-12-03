@@ -18,15 +18,10 @@
     <li>👨‍💻 Most of my projects are available on <a href="https://github.com/Saka289">Github</a>.</li>
     <li>📝 Ask me about anything related to C#/Java/Python/Javascript.</li>
     <li>🎉 Fun Fact: いいこ。</li>
-    <li><p align="center"> <img src="https://komarev.com/ghpvc/?username=Saka289&color=C084FC" alt="saka289 " /> </p></li>
+    <li><p align="left"> <img src="https://komarev.com/ghpvc/?username=Saka289&color=C084FC" alt="saka289 " /> </p></li>
   </ul>
 </div>
 
-<br>
-
-![](https://komarev.com/ghpvc/?username=Saka289&color=C084FC)
-
-<br>
 
 ## 💫 About Me
 ```js
