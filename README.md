@@ -19,30 +19,9 @@
     <li>📝 Ask me about anything related to C#/Java/Python/Javascript.</li>
     <li>🎉 Fun Fact: 我也会讲中文。</li>
   </ul>
-  
-  ![](https://komarev.com/ghpvc/?username=Saka289&color=C084FC)
-      
 </div>
 
-
-<div>
-  <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="this slowpoke moves" width="250"/> <br>
-
-☞ 〔 ⚪️ 〕🌈 Sadness flies away on the wings of time !!! 🌦️
-
-☞ 〔 🐵 〕 <a href="https://daihoc.fpt.edu.vn/">![Weblicious](https://img.shields.io/badge/Student-FTP%20University-orange)</a>
-
-☞ 〔 🐼 〕Back End DEV
-
-☞ 〔 🤾 〕22
-
-☞ 〔 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="18" width="18" /> 〕C#
-
-☞ 〔 👀 〕
-
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=7yy6f3cw5tcqksxnfoxjl8azd&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=c084fc&bar_color_cover=true" />
-
-</div>
+![](https://komarev.com/ghpvc/?username=Saka289&color=C084FC)
 
 <br>
 
