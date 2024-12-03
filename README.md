@@ -21,11 +21,13 @@
   </ul>
 </div>
 
+<br>
+
 ![](https://komarev.com/ghpvc/?username=Saka289&color=C084FC)
 
 <br>
 
-## 💫 About Me:
+## 💫 About Me
 ```js
 Introduce = [   
   (●'◡'●),  
@@ -38,7 +40,7 @@ Introduce = [
 ```
 
 
-## 🌐 Socials:
+## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/saka289/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_nam_saka/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saka289/) 
@@ -65,7 +67,7 @@ Introduce = [
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-## 💻 Tech Stack:  
+## 💻 Tech Stack
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
@@ -83,7 +85,7 @@ Introduce = [
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)  
 
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 | <img width="450em" src="https://github-profile-trophy.vercel.app/?username=Saka289&theme=tokyonight&row=2&column=4&margin-w=10&margin-h=15&no-bg=true" alt="Saka289's Trophies"> | <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saka289&show_icons=true&locale=en&layout=compact&theme=aura" alt="Saka289's Most used lang"> |
 | :------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------: |
 |            <img width="450em" src="https://streak-stats.demolab.com?user=Saka289&theme=aura" alt="Saka289's Streak">             | <img width="450em" src="https://github-readme-stats.vercel.app/api?username=Saka289&show_icons=true&count_private=true&theme=aura" alt="Saka289's Stats"> |
