@@ -25,7 +25,6 @@
 
 ![](https://komarev.com/ghpvc/?username=Saka289&color=C084FC)
 
-<br>
 
 ## 💫 About Me
 ```js
