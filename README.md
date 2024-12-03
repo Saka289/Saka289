@@ -88,7 +88,7 @@ Introduce = [
 |            <img width="450em" src="https://streak-stats.demolab.com?user=Saka289&theme=aura" alt="Saka289's Streak">             | <img width="450em" src="https://github-readme-stats.vercel.app/api?username=Saka289&show_icons=true&count_private=true&theme=aura" alt="Saka289's Stats"> |
 
 
-## ⚡ Contribution:
+## ⚡ Contribution
 
 <h4 align="center">🐍 My Contributions 🐍</h4>
 
