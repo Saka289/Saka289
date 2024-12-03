@@ -33,7 +33,7 @@
 
 ☞ 〔 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="18" width="18" /> 〕C#
 
-☞ 〔 👀 〕
+☞ 〔 👀 〕![](https://komarev.com/ghpvc/?username=Saka289&color=C084FC)
 
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=7yy6f3cw5tcqksxnfoxjl8azd&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=c084fc&bar_color_cover=true" />
 
