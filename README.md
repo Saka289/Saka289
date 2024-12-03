@@ -9,18 +9,21 @@
 <br><br>
 
 ## ⚡️ A Few Quick Facts
-
-<ul>
-<li>🌈 Sadness flies away on the wings of time !!! 🌦️.</li>
-<li>🔭 I’m currently working on something cool 😉.</li>
-<li>🧐 Learning about <strong>C#</strong>, <strong>Java</strong>, and a bit of <strong>Javascript</strong>.</li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/Saka289">Github</a>.</li>
-<li>📝 Ask me about anything related to C#/Java/Python/Javascript.</li>
-<li>🎉 Fun Fact: 我也会讲中文。</li>
-<li>👀 ![](https://komarev.com/ghpvc/?username=Saka289&color=C084FC) </li>
+<div>
+  <ul>
+    <li>🌈 Sadness flies away on the wings of time !!! 🌦️.</li>
+    <li>🔭 I’m currently working on something cool 😉.</li>
+    <li>🧐 Learning about <strong>C#</strong>, <strong>Java</strong>, and a bit of <strong>Javascript</strong>.</li>
+    <li>👨‍💻 Most of my projects are available on <a href="https://github.com/Saka289">Github</a>.</li>
+    <li>📝 Ask me about anything related to C#/Java/Python/Javascript.</li>
+    <li>🎉 Fun Fact: 我也会讲中文。</li>
+  </ul>
+  
   ![](https://komarev.com/ghpvc/?username=Saka289&color=C084FC)
-</ul>
-![](https://komarev.com/ghpvc/?username=Saka289&color=C084FC)
+      
+</div>
+
+
 <div>
   <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="this slowpoke moves" width="250"/> <br>
 
@@ -34,7 +37,7 @@
 
 ☞ 〔 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="18" width="18" /> 〕C#
 
-☞ 〔 👀 〕![](https://komarev.com/ghpvc/?username=Saka289&color=C084FC)
+☞ 〔 👀 〕
 
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=7yy6f3cw5tcqksxnfoxjl8azd&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=c084fc&bar_color_cover=true" />
 
